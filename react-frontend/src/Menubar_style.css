@@ -1,0 +1,19 @@
+/* .menubar_style{
+    position: relative;
+    margin-left: 10%;
+    margin-top: 0.2%;
+    background-color: transparent;
+    border-color: transparent;
+    justify-content: space-between;
+} */
+.menubar > a[class="p-menubar-button"] {
+    display: none !important;
+}
+.p-menubar {
+    margin-left: 10%;
+    padding: 1.5rem;
+    background: none !important;
+    color: #495057;
+    border: none !important;
+    border-radius: 15px;
+}
